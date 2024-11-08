@@ -30,7 +30,7 @@ Set up Cyber via Telegram bot: <a href="https://t.me/cyberinstallerbot"><img src
 
 ## Manual Deploy - Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/FaridDadashzade/CyberUserBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/darwintgcheck/Xdportuserat)
 
 
 ### Hard way
